@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SuPerApp</string>
+    <string name="description">防止应用被卸载搞事</string>
+</resources>
